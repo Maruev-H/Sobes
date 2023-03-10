@@ -84,12 +84,7 @@ body:has(.reset:active) .digit::after {
 .sec-1 {
     --duration: 1s;
 }
-.cent-10 {
-    --duration: 0.1s;
-}
-.cent-1 {
-    --duration: 0.01s;
-}
+
 
 @keyframes tic-10 {
     0%,
